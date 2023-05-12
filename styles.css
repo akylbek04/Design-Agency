@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-image: url(images/background.webp);
+    background-size: cover;
+    color: #fff;
+}
+
